@@ -1,3 +1,11 @@
+//
+// Created by: John Rogers 
+// Date: Oct 6, 2019
+// Permission is granted to freely use and distribute so long as this notice is 
+// left in code. License: GPL
+//
+// john at wizworks dot net
+//
 #include <ESP8266WiFi.h>          
 #include <ESP8266TrueRandom.h>
 #include <DNSServer.h>
